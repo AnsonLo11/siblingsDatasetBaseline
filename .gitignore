@@ -1,7 +1,9 @@
 /siblings_face
+/siblings_face_1024
 /siblings_pose
 /labelA
 /labelB
+/face680
 *.csv
 *.xlsx
 *.mp4
